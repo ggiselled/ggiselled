@@ -8,4 +8,4 @@
 
 ### 🌐 Estoy explorando el 3D ![Spline](https://img.shields.io/badge/-Spline-FF5733?style=flat-square&logo=spline&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js&logoColor=white)
 
-### 🔙 Hago un poquito de Backend ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
